@@ -1,2 +1,2 @@
-echo "# FirstRepository"
-Git command line.
+# FirstRepository
+# This is my first GitRepository
